@@ -2,9 +2,9 @@
 
 در این بخش به موضوعات زیر می‌پردازیم:
 
--	[هدف از مدیریت منابع جستجو ](#PurposeOfSearchResourceManagement)
+•	[هدف از مدیریت منابع جستجو ](#PurposeOfSearchResourceManagement)
 
--	[ تنظیم مدیریت منابع جستجو ](#SettingUpSearchResourceManagement)
+•	[ تنظیم مدیریت منابع جستجو ](#SettingUpSearchResourceManagement)
 
 ## هدف از مدیریت منابع جستجو{#PurposeOfSearchResourceManagement}
 

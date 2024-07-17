@@ -2,9 +2,9 @@
 
 در این بخش به موضوعات زیر می‌پردازیم:
 
--	[هدف از ماژول طراحی گرافیکی ](#ThePurposeOfTheGraphicDesign)
+•	[هدف از ماژول طراحی گرافیکی ](#ThePurposeOfTheGraphicDesign)
 
--	[تنظیم ماژول طراحی گرافیکی ](#SettingTheGraphicDesignModule)
+•	[تنظیم ماژول طراحی گرافیکی ](#SettingTheGraphicDesignModule)
 
 ## هدف از ماژول طراحی گرافیکی {#ThePurposeOfTheGraphicDesign}
 

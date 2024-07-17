@@ -2,9 +2,9 @@
 
 در این بخش به موضوعات زیر می‌پردازیم:
 
--	[هدف از تنظیم لیست سیاه ](#ThePurposeOfSettingTheBlacklist)
+•	[هدف از تنظیم لیست سیاه ](#ThePurposeOfSettingTheBlacklist)
 
--	[تنظیم لیست سیاه](#SettingTheBlacklist)
+•	[تنظیم لیست سیاه](#SettingTheBlacklist)
 
 ## هدف از تنظیم لیست سیاه {#ThePurposeOfSettingTheBlacklist}
 

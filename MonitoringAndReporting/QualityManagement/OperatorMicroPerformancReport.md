@@ -2,9 +2,9 @@
 
 در این بخش به موضوعات زیر می‌پردازیم:
 
--	[هدف از گزارش ریز عملکرد اپراتور در صف ](#ThePurposeOfReportingTheFinePerformanceOfTheOperatorInTheQueue)
+•	[هدف از گزارش ریز عملکرد اپراتور در صف ](#ThePurposeOfReportingTheFinePerformanceOfTheOperatorInTheQueue)
 
--	[مشاهده گزارش ریز عملکرد اپراتور در صف](#ViewingTheMicroPerformanceReportOfTheOperatorInTheQueue)
+•	[مشاهده گزارش ریز عملکرد اپراتور در صف](#ViewingTheMicroPerformanceReportOfTheOperatorInTheQueue)
 
 ## (هدف از گزارش ریز عملکرد اپراتور در صف ){#ThePurposeOfReportingTheFinePerformanceOfTheOperatorInTheQueue}
 

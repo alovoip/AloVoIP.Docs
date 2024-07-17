@@ -1,12 +1,17 @@
 # مانیتورینگ مرکز تماس
 
 در این بخش به موضوعات زیر می‌پردازیم:
--	[مقدمه ](#Introduction)
--	[مانیتورینگ مرکز تماس ](#CallCenterMonitoring)
--	[شنود ](#listening)
--	[نجوا ](#Whisper)
--	[کنفرانس ](#Conference)
--   [قطع تماس](#CallCancellation)
+•	[مقدمه ](#Introduction)
+
+•	[مانیتورینگ مرکز تماس ](#CallCenterMonitoring)
+
+•	[شنود ](#listening)
+
+•	[نجوا ](#Whisper)
+
+•	[کنفرانس ](#Conference)
+
+•   [قطع تماس](#CallCancellation)
 
 
 ## مقدمه{#Introduction}

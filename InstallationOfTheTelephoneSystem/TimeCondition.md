@@ -59,9 +59,9 @@
 
 
 
-![مسیر گروه های زمانی ](./Images/time007.png)![مسیر گروه های زمانی ](./Images/time008.png)
-
-![مسیر گروه های زمانی ](./Images/time009.jpeg)
+![مسیر گروه های زمانی ](./Images/time007.png)</br>
+![مسیر گروه های زمانی ](./Images/time008.png)</br>
+![مسیر گروه های زمانی ](./Images/time009.jpeg)</br>
 
 
 

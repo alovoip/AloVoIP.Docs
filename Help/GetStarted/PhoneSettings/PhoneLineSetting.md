@@ -22,13 +22,13 @@
 
 خطوط آنالوگ شهری شامل خط های هشت رقمی مخابرات می‌باشد که برای ارتباط با سیستم تلفنی ویپ نیاز به مبدل آنالوگ به دیجیتال که با عنوان گیتویFxo می‌شناسید دارید. تا بتوانید از این طریق با  تعریف  مسیرهای ورودی و خروجی تماس به سیستم تلفنی داشته باشید.در نظر داشته باشید روی هر خط آنالوگ در هر لحظه یک تماس فقط دارید.برای ارتباط با گیتوی نیاز به تعریف سیپ ترانک در pbx configuration دارید که برای خطوط آنالوگ مخابرات تنظیمات ترانک بصورت زیر انجام می‌شود:
 
-host=ip gateway
-type=friend
-qualify=yes
-insecure=very
-disallow=all
-allow=alaw,ulaw
-dtmfmode=rfc2833
+host=ip gateway<br>
+type=friend<br>
+qualify=yes<br>
+insecure=very<br>
+disallow=all<br>
+allow=alaw,ulaw<br>
+dtmfmode=rfc2833<br>
 
 ## خطوط دیجیتال (E1&T1)
 
@@ -42,13 +42,13 @@ dtmfmode=rfc2833
 
 نوعی دیگری از خطوط تلفنی را خطوط E1 در بر می‌گیرند. این خطوط که جزو متداول‌ترین خطوط تلفن دیجیتال هم هستند، عمدتا در سازمان‌ها و شرکت‌ها کاربرد دارند. محیط‌هایی که تماس‌های تلفنی بیشماری را در ساعات مختلف شبانه روز دریافت می‌کنند، می‌توانند از این خطوط برای رفع نیازهای خود و پاسخگویی به مشتریان کمک بگیرند. برای تنظیم این خط نیاز به گیتوی ایوان و یا روتر سیسکو با کارت pri دارید. تنظیمات مربوط به ترانک این خط بصورت زیر می‌باشد:
 
-host=ip gateway
-type=friend
-qualify=yes
-insecure=very
-disallow=all
-allow=alaw,ulaw
-dtmfmode=rfc2833
+host=ip gateway<br>
+type=friend<br>
+qualify=yes<br>
+insecure=very<br>
+disallow=all<br>
+allow=alaw,ulaw<br>
+dtmfmode=rfc2833<br>
 
 ## خطوط سیپ ترانک
 
@@ -65,26 +65,26 @@ dtmfmode=rfc2833
 
 به عنوان مثال تنظیمات خط سیپ ترانک مخابرات بصورت زیر می‌باشد:
 
-Host= ip sbc
-type=friend
-context=from-trunk
-qualify=yes
+Host= ip sbc<br>
+type=friend<br>
+context=from-trunk<br>
+qualify=yes<br>
 
 ## خطوط اینترنتی
 
 خط تلفن اینترنتی در واقع نوعی خط تلفن ثابت است که در آن جابجایی دیتا بر روی بستر اینترنت صورت می‌گیرد.این خط یک شماره عادی 9 رقمی است که بدون سیم کشی از طریق نرم افزار مخصوص روی موبایل یا دسک تاپ کامپیوتر و لپ تاپ نصب می‌شود. تلفن اینترنتی عموما بین 3 تا 5 تماس همزمان را پشتیبانی می‌کند و حتی با پرداخت هزینه ایی جداگانه می‌توان این تعداد را افزایش داد.خط تلفن اینترنتی امکان برقراری تماس از دو سمت( تماس ورودی و تماس خروجی) را دارد و تنها در صورت قطع بودن اینترنت، قطع خواهد شد. برای مثال تنظیمات ترانک مربوط به خط آسیاتک بصورت زیر می‌باشد:
 
-username=219101xxxx
-secret=PASSWORD
-type=friend
-qualify=yes
-nat=force_rport,comedia
-insecure=port,invite
-host=voice.asiatech.ir
-fromuser=219101xxxx
-disallow=all
-context=from-trunk
-allow=alaw&ulaw
+username=219101xxxx<br>
+secret=PASSWORD<br>
+type=friend<br>
+qualify=yes<br>
+nat=force_rport,comedia<br>
+insecure=port,invite<br>
+host=voice.asiatech.ir<br>
+fromuser=219101xxxx<br>
+disallow=all<br>
+context=from-trunk<br>
+allow=alaw&ulaw<br>
 
 لازم به ذکر است تنظیمات ترانک مربوط به هرکدام از ارائه دهندگان خط می‌تواند متفاوت باشد.
 
@@ -92,13 +92,13 @@ allow=alaw&ulaw
 
 خطوط تک کاناله ایی هستند که روی بستر فیبر با پروتکل سیپ از طرف شرکت مخابرات ارایه می‌شود.که جهت ارتباط با سیستم تلفنی می‌توانید از ترانک زیر استفاده کنید:
 
-username=219101xxxx
-secret=PASSWORD
-type=friend
-qualify=yes
-nat=force_rport,comedia
-insecure=port,invite
-host=ip Sbc
-disallow=all
-context=from-trunk
-allow=alaw&ulaw
+username=219101xxxx<br>
+secret=PASSWORD<br>
+type=friend<br>
+qualify=yes<br>
+nat=force_rport,comedia<br>
+insecure=port,invite<br>
+host=ip Sbc<br>
+disallow=all<br>
+context=from-trunk<br>
+allow=alaw&ulaw<br>

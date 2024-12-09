@@ -1,11 +1,9 @@
 ## فایل های صوتی
 
 در این بخش به موضوعات زیر می‌پردازیم:
-•	[کاربرد  فایل های صوتی](#UseOfAudioFiles)
-
-•	[تبدیل یک فایل صوتی به فرمت WAV](#ConvertAnAudioFileToWAVFormat)
-
-•	[بارگذاری یک فایل صوتی در پنل الوویپ](#UploadAnAudioFileToThePanel)
+- [کاربرد  فایل های صوتی](#UseOfAudioFiles)
+- [تبدیل یک فایل صوتی به فرمت WAV](#ConvertAnAudioFileToWAVFormat)
+- [بارگذاری یک فایل صوتی در پنل الوویپ](#UploadAnAudioFileToThePanel)
 
 ## کاربرد فایل های صوتی{#UseOfAudioFiles}
 

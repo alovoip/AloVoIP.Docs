@@ -1,10 +1,8 @@
 ## لیست سیاه
 
 در این بخش به موضوعات زیر می‌پردازیم:
-
-•	[  	هدف از تنظیم لیست سیاه   ](#ThePurposeOfSettingTheBlacklist)
-
-•	[	تنظیم لیست سیاه در پنل الوویپ ](#SettingTheBlacklist)
+- [  	هدف از تنظیم لیست سیاه   ](#ThePurposeOfSettingTheBlacklist)
+- [	تنظیم لیست سیاه در پنل الوویپ ](#SettingTheBlacklist)
 
 ## 	هدف از تنظیم لیست سیاه {#ThePurposeOfSettingTheBlacklist}
 

@@ -1,10 +1,8 @@
 # طراحی گرافیکی تماس ورودی
 
 در این بخش به موضوعات زیر می‌پردازیم:
-
-•	[هدف از ماژول طراحی گرافیکی ](#ThePurposeOfTheGraphicDesign)
-
-•	[تنظیم ماژول طراحی گرافیکی ](#SettingTheGraphicDesignModule)
+- [هدف از ماژول طراحی گرافیکی ](#ThePurposeOfTheGraphicDesign)
+- [تنظیم ماژول طراحی گرافیکی ](#SettingTheGraphicDesignModule)
 
 ## هدف از ماژول طراحی گرافیکی {#ThePurposeOfTheGraphicDesign}
 

@@ -4,9 +4,8 @@
 
 در این بخش به موضوعات زیر می‌پردازیم:
 
-- [هدف از تنظیم تبلیغات انبوه تلفنی ](#ThePurposeOfSettingUpTelephoneAdvertising)
-
-- [تنظیم ماژول تنظیم تبلیغات انبوه تلفنی در پنل الوویپ ](#SettingTheModuleForSettingBulkTelephoneAdsInTheAlovoipPanel)
+- [هدف از تنظیم تبلیغات انبوه تلفنی](#ThePurposeOfSettingUpTelephoneAdvertising)
+- [تنظیم ماژول تنظیم تبلیغات انبوه تلفنی در پنل الوویپ](#SettingTheModuleForSettingBulkTelephoneAdsInTheAlovoipPanel)
 
 ## هدف از تنظیم تبلیغات انبوه تلفنی{#ThePurposeOfSettingUpTelephoneAdvertising}
 

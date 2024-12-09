@@ -1,9 +1,9 @@
 #  بررسی وضعیت قرارداد#  بررسی وضعیت قرارداد
 
 در این بخش به موضوعات زیر می‌پردازیم: <br>
-•	[ هدف از ماژول بررسی وضعیت قرارداد ](#CheckingforQarardad)  <br>
-•	[ مثال از سناریو تماس ](#ExampleForSenario)        <br>
-•	[ تنظیمات ماژول بررسی وضعیت قرارداد در پنل الوویپ ](#SettingForCheckingforQarardad)      <br>
+- [هدف از ماژول بررسی وضعیت قرارداد](#CheckingforQarardad)
+- [مثال از سناریو تماس](#ExampleForSenario)     
+- [ تنظیمات ماژول بررسی وضعیت قرارداد در پنل الوویپ ](#SettingForCheckingforQarardad)
 
 ## هدف از ماژول بررسی وضعیت قرارداد{#CheckingforQarardad}
 

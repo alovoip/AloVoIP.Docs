@@ -1,20 +1,13 @@
 در این بخش به موضوعات زیر می‌پردازیم:<br>
 
-•	[هدف از مسیرهای ورودی](#PurposeInboundSettings)
-
-•	[تنظیمات مسیر ورودی](#InboundSettings)
-
-•	[تنظیمات شناسایی فکس](#FaxRecognitionSettings)
-
-•	[تنظیمات حریم خصوصی](#PrivacySettings)
-
-•	[تنظیمات منبع جستجوی CID](#SearchSourceSettings)
-
-•	[تنظیمات ضبط تماس](#CallRecordingSettings)
-
-•	[تنظیمات زبان](#LanguageSettings)
-
-•	[تنظیمات مقصد](#DestinationSettings)
+- [هدف از مسیرهای ورودی](#PurposeInboundSettings)
+- [تنظیمات مسیر ورودی](#InboundSettings)
+- [تنظیمات شناسایی فکس](#FaxRecognitionSettings)
+- [تنظیمات حریم خصوصی](#PrivacySettings)
+- [تنظیمات منبع جستجوی CID](#SearchSourceSettings)
+- [تنظیمات ضبط تماس](#CallRecordingSettings)
+- [تنظیمات زبان](#LanguageSettings)
+- [تنظیمات مقصد](#DestinationSettings)
 
 
 ## هدف از مسیر ورودی{#PurposeInboundSettings}
@@ -28,13 +21,7 @@
 
 ![انتخاب سرور تلفنی](./Images/Select-Your-Telephony-Server.png)
 
-
-
-
 ![باز کردن بخش مسیر های ورودی](./Images/Open-Inbound-Route.png)
-
-
-
 
 ![باز کردن بخش مسیر های ورودی](./Images/Open-In-Bound-Route2.png)
 
@@ -105,9 +92,7 @@
 
 ![تنظیمات مسیر ورودی ](./Images/Edit-InBound-Setting4.png)
 
+- بعد از اتمام تنظیمات دکمه ثبت را می‌زنید.تمامی این اطلاعات قابل ویرایش می‌باشد.
 
-
-•  بعد از اتمام تنظیمات دکمه ثبت را می‌زنید.تمامی این اطلاعات قابل ویرایش می‌باشد.
-
-•  برای تنظیم مسیر ورودی فیلدهای مربوطه بنا بر سیاست سازمان شما پر می‌شود و در صورت عدم نیاز به آنها میتوانید این فیلدها را پر نکنید
+-  برای تنظیم مسیر ورودی فیلدهای مربوطه بنا بر سیاست سازمان شما پر می‌شود و در صورت عدم نیاز به آنها میتوانید این فیلدها را پر نکنید
 

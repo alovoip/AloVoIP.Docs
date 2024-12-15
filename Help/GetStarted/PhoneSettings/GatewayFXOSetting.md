@@ -1,18 +1,12 @@
 
 # نحوه تنظیم گیتوی گرنداستریم
 در این بخش به موضوعات زیر می‌پردازیم:
-
-•	[مراحل تنظیم کردن گیتوی FXO گرند استریم ](#FXOGrandstreamGateWaySetupSteps)
-
-•	[تنظیمات DTMF و DID در گیتوی Grandstream](#DTMFAndDIDSettingsInGrandstreamGateway)
-
-•	[تنظیمات پورت شبکه FXO گرند استریم](#GrandstreamFXONetworkPortSettings)
-
-•	[تنظیم زمان در FXO گرند استریم](#TimeAdjustmentInFXOGrandstream)
-
-•  [ تغییر پسورد پیشفرض گیتوی FXO گرند استریم](#ChangingTheDefaultPasswordOfTheFXOGrandStreamGateway)
-
-•	[تنظیم سیگنال خط های آنالوگ ](#)
+- [مراحل تنظیم کردن گیتوی FXO گرند استریم ](#FXOGrandstreamGateWaySetupSteps)
+- [تنظیمات DTMF و DID در گیتوی Grandstream](#DTMFAndDIDSettingsInGrandstreamGateway)
+- [تنظیمات پورت شبکه FXO گرند استریم](#GrandstreamFXONetworkPortSettings)
+- [تنظیم زمان در FXO گرند استریم](#TimeAdjustmentInFXOGrandstream)
+- [ تغییر پسورد پیشفرض گیتوی FXO گرند استریم](#ChangingTheDefaultPasswordOfTheFXOGrandStreamGateway)
+- [تنظیم سیگنال خط های آنالوگ ](#SignalAdjustmentOfAnalogLines)
 
 ## مراحل تنظیم کردن گیتوی FXO گرند استریم{#FXOGrandstreamGateWaySetupSteps}
 این سخت‌افزارها به‌عنوان گیتوی‌های FXO باقابلیت تبدیل ۴ یا ۸ خط شهری به خطوط دیجیتال بر روی بستر ویپ ازجمله محبوب‌ترین و پرکاربردترین محصولات شرکت گرند استریم شناخته می‌شوند و ما قصد داریم طریقه کانفیگ مدل 4108 گرند استریم را در اینجا آموزش دهیم. 

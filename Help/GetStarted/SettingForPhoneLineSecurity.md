@@ -38,7 +38,7 @@
 
 زیر منو دوم fail2ban بخش Banned IPs یا همان لیست سیاهی است که توسط این ماژول به بخش قرنطینه ارسال شده اند که با کلیک برروی آن می توانید لیست کامل این آیپی ها را مشاهده کنید.
 
-## تغییر پورت 5060 در سیستم تلفنی ویپ(#ChangingPort5060InVoipSystem)
+## تغییر پورت 5060 در سیستم تلفنی ویپ{#ChangingPort5060InVoipSystem}
 
 وارد مسیر زیر شوید:
 pbx>PBX Configuration>Unembedded IssabelPBX>asterisk sip setting>Bind port

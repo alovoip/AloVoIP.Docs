@@ -58,7 +58,7 @@
 6. در آخر برروی Save کلیک نمایید.
 
 
-## تنظیمات پورت شبکه FXO گرند استریم{#randstreamFXONetworkPortSettings}
+## تنظیمات پورت شبکه FXO گرند استریم{#GrandstreamFXONetworkPortSettings}
 
 1. وارد سربرگ Networks شوید.
 

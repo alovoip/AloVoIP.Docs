@@ -8,7 +8,7 @@
 - [راه اندازی داخلی روی تلفن گرند استریم](#RegisteringAnExtensionOnTheGrandstreamPhone)
 - [تنظیمات داخلی روی تلفن گرند استریم](#ExtentionSettingsOnTheGrandstreamPhone)
 
-## هدف از رجیستر کردن داخلی بر روی آی پی فون گرند استریم{##ThePurposeOfInternalRegistrationOnGrandStreamIPPhone}
+## هدف از رجیستر کردن داخلی بر روی آی پی فون گرند استریم{#ThePurposeOfInternalRegistrationOnGrandStreamIPPhone}
 به منظور داشتن تماس ورودی و خروجی در سیستم تلفنی خود نیاز به رجیستر کردن داخلی بر روی آی پی فون دارید.
 
 ## ورود به صفحه ای پی فون گرند استریم{#LoginToGrandStreamIPPhonePage}

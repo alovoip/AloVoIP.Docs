@@ -4,7 +4,6 @@
 - [هدف از ایجاد پنل پیامکی](#PurposeOfCreatingAnSMSPanel)
 - [نحوه عمکلرد پنل پیامکی](#HowToUseSMSPanel)
 - [تنظیمات بخش پیامکی در پنل الوویپ](#SettingsOfTheSMS)
-- [تنظیم ماژول پیامکی](#SMSModuleSetting)
 
 
 ## هدف از تنظیم خطوط پیامکی{#PurposeOfCreatingAnSMSPanel}

@@ -21,6 +21,9 @@
  
  ![](./Images/open-gozaresh12.jpg)
  
+
+12. بعد از اینکه  با استفاده از روش Drag & Drop جدول های دیتابیس در این مرحله 
+
  
  ![](./Images/open-gozaresh13.jpg)
  

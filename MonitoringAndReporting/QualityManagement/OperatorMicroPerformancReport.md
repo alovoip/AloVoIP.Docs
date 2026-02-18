@@ -1,10 +1,12 @@
 # گزارش ریز عملکرد اپراتور در صف
 
 در این بخش به موضوعات زیر می‌پردازیم:
-- [هدف از گزارش ریز عملکرد اپراتور در صف ](#ThePurposeOfReportingTheFinePerformanceOfTheOperatorInTheQueue)
+
+- [ مقدمه ](#ThePurposeOfReportingTheFinePerformanceOfTheOperatorInTheQueue)
 - [مشاهده گزارش ریز عملکرد اپراتور در صف](#ViewingTheMicroPerformanceReportOfTheOperatorInTheQueue)
 - [جستجو و فیلتر گزارش ](#SearchAboutFilteringReport)
-## (هدف از گزارش ریز عملکرد اپراتور در صف ){#ThePurposeOfReportingTheFinePerformanceOfTheOperatorInTheQueue}
+
+## (مقدمه){#ThePurposeOfReportingTheFinePerformanceOfTheOperatorInTheQueue}
 در پنل الوویپ، با توجه به نوع بسته خریداری‌شده، اپراتورهایی که در صف تماس قرار دارند می‌توانند در چهار وضعیت مختلف فعالیت کنند: **آنلاین،** **آفلاین،** **مشغول به کار** و **استراحت**.
 
 گزارش ریز عملکرد اپراتور در صف، آماری دقیق از زمان حضور اپراتورها در هر یک از این وضعیت‌ها را ارائه می‌دهد و به مدیران کمک می‌کند تا میزان بهره‌وری و ساعات کاری کارشناسان را به‌صورت شفاف ارزیابی نمایند.

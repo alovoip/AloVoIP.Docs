@@ -1,10 +1,11 @@
 # گزارش عملکرد اپراتور در صف
 
 در این بخش به موضوعات زیر می‌پردازیم:
-- [هدف از گزارش عملکرد اپراتور در صف ](#ThePurposeOfReportingThePerformanceOfTheOperatorInTheQueue)
+- [ مقدمه ](#ThePurposeOfReportingThePerformanceOfTheOperatorInTheQueue)
 - [مشاهده گزارش عملکرد اپراتور در صف](#ViewThePerformanceOfTheOperatorInTheQueue)
+- [گزارش درصدی عملکرد اپراتورها](#OperatorPerformancePercentageReport)
 
-## (هدف از گزارش عملکرد اپراتور در صف){#ThePurposeOfReportingThePerformanceOfTheOperatorInTheQueue}
+## ( مقدمه ){#ThePurposeOfReportingThePerformanceOfTheOperatorInTheQueue}
 با توجه به نوع بسته‌ی خریداری‌شده و تعداد اپراتورهای فعال، امکان تعریف اپراتورهای جدید در سامانه الوویپ وجود دارد. این اپراتورها هنگام حضور در صف تماس می‌توانند در چهار وضعیت کاری قرار گیرند: **آنلاین، آفلاین، مشغول به کار و استراحت** . <br>
 در این بخش، مدیران سازمان قادر خواهند بود **گزارش جامع عملکرد اپراتورها** را مشاهده و تحلیل نمایند تا دید دقیق‌تری نسبت به میزان فعالیت، بهره‌وری و پاسخ‌گویی کارشناسان خود داشته باشند
 
@@ -21,6 +22,9 @@
 ![باز کردن قسمت گزارش عملکرد اپراتور در صف](./Image/OperatorInQueueroute1.png)
 
 ![باز کردن قسمت گزارش عملکرد اپراتور در صف](./Image/OperatorInQueue1.png)
+
+## ( گزارش درصدی عملکرد اپراتورها ){#OperatorPerformancePercentageReport}
+
 
 - در بخش پایین‌تر صفحه‌ی گزارش، با انتخاب گزینه‌ی مشخص‌شده در تصویر، می‌توانید عملکرد اپراتور در صف را بر اساس درصد مشاهده کنید. این بخش عملکرد اپراتور را به‌صورت نمودار میله‌ای نمایش می‌دهد که قابلیت دانلود در قالب **PNG** و **SVG** نیز دارد
 
